@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1c307386c2525a409e8e2fdec9165595",
-"assets/AssetManifest.bin.json": "cc76b52d81610044906bc6a5683316e4",
-"assets/AssetManifest.json": "9df77231bff45eb44295ea5dea2b8c7c",
+const RESOURCES = {"assets/AssetManifest.bin": "df836ae0d5cc5974cdf8818967f15a8c",
+"assets/AssetManifest.bin.json": "01e79e3138c1cfad7d2e307c316c1fe5",
+"assets/AssetManifest.json": "096e49ca4dd4d8bf17dbfe4f07928ba0",
 "assets/assets/font/digitalt.otf": "6f036a267ba45895feb6d59b7d0b8144",
 "assets/assets/font/firacode.ttf": "016bcf67f409675ff98373081ba753dd",
 "assets/assets/images/back_btn.png": "62ad0e500c7d18cf2a9cf8c3a8d334f4",
@@ -29,9 +29,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "1c307386c2525a409e8e2fdec9165595
 "assets/assets/images/level-on.png": "124d120ef8916853c0f87a8bd3a6471f",
 "assets/assets/images/modal.png": "d0cb0d1e677787e78da5328a60f6ba71",
 "assets/assets/images/next_btn.png": "acb1128c110d3f7dbb7c6bddc8788e1b",
+"assets/assets/images/next_btn_disabled.png": "81e0ae0441f14dd795bafb3ab6461cff",
 "assets/assets/images/oops.png": "0e016c1aab1d236dc596246d811617c1",
 "assets/assets/images/play_btn.png": "06621b69c10942a635290d83f101b728",
-"assets/assets/images/Property%25201=disabled.png": "81e0ae0441f14dd795bafb3ab6461cff",
 "assets/assets/images/retry_btn.png": "2c1a2e09397a99dde5299ea451c47c90",
 "assets/assets/images/right_btn.png": "43df01c9178c744c38362282187d7e91",
 "assets/assets/images/Screw%2520gold.png": "5ea33be9512e726be71e3916c4850258",
@@ -43,6 +43,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1c307386c2525a409e8e2fdec9165595
 "assets/assets/images/takeaway_card.png": "d5dba7241610817f1bcf7efdf97e5eea",
 "assets/assets/images/takeaway_title.png": "547d8c6e7f63c9e5ff173bea2d7eea4a",
 "assets/assets/images/Tower%2520gold.png": "7b52f67a1b3a77518d5008c470949f9c",
+"assets/assets/images/welcome.gif": "ef842809cc38ea31d4c15a19bac4a628",
 "assets/FontManifest.json": "e2e05fc0ce98c6853cd21c27d3a41f60",
 "assets/fonts/MaterialIcons-Regular.otf": "4ea977939aa5df05330a0ecd899fb4c8",
 "assets/NOTICES": "f68f25de6178f7b2bb5eacdbca3d2aae",
@@ -60,14 +61,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "1c307386c2525a409e8e2fdec9165595
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "4a4148f61e4701e7c16a7fccec83dfe0",
+"flutter_bootstrap.js": "dd730fc2d6ccf353e8c804bb61b61ba8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "49b86b413e97cdec6445953d84d318fe",
 "/": "49b86b413e97cdec6445953d84d318fe",
-"main.dart.js": "fec55e25371058e9bf583fc8e9229303",
+"main.dart.js": "a5a3367cadf0f921b354aa17046c3db1",
 "manifest.json": "71e0154c18320c9ca4cbf26c3e30935d",
 "version.json": "0648ce054e5b3361d7a3bb7e5fba864f"};
 // The application shell files that are downloaded before a service worker can
